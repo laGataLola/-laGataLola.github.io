@@ -1,2 +1,2 @@
-# -laGataLola.github.io
+# laGataLola.github.io
 Portfolio &amp; Expertise
